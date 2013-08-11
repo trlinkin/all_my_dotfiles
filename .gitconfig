@@ -1,0 +1,7 @@
+[core]
+	editor = /usr/bin/vim
+[user]
+	name = Thomas Linkin
+	email = trlinkin@gmail.com
+[color]
+	ui = true
