@@ -1,0 +1,14 @@
+" .vimrc.after  - - - Janus Extra Modifications
+
+" Default Color Scheme Molokai - It's Fuck`n Great!
+colorscheme molokai
+"let g:solarized_termcolors=256
+
+" Default behaviours I like - deal with it
+hi   LineNr ctermfg=244 guifg=#808080
+set  cursorline
+hi   SpecialKey ctermfg=166 guifg=#d75f00 cterm=bold ctermbg=235
+set  list
+set  lcs=trail:◇
+
+set  noshowmode

@@ -1,0 +1,2 @@
+" powerline fancy characters
+let g:Powerline_symbols = 'fancy'
