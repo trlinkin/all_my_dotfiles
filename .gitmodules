@@ -1,0 +1,3 @@
+[submodule "/Users/tlinkin/.vim"]
+	path = /Users/tlinkin/.vim
+	url = https://github.com/carlhuda/janus.git
