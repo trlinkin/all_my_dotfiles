@@ -7,3 +7,6 @@
 [submodule ".janus/vim-yardoc"]
 	path = .janus/vim-yardoc
 	url = git@github.com:noprompt/vim-yardoc.git
+[submodule ".janus/vim-airline"]
+	path = .janus/vim-airline
+	url = git@github.com:bling/vim-airline.git

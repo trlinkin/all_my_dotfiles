@@ -12,3 +12,6 @@ alias tmux="tmux -2"
 
 # PRY!
 alias irb='pry'
+
+# "Hub" for "GIT"
+alias git='hub'
