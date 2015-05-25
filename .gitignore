@@ -1,4 +1,5 @@
 .DS_Store
+.viminfo
 .rbenv
 .vagrant.d
 .ssh
@@ -19,3 +20,4 @@ Picture
 Movies
 Music
 Pictures
+Desktop
