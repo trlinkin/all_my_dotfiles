@@ -28,3 +28,9 @@ set  list
 set  lcs=trail:◇
 
 set  noshowmode
+
+" Allow cursor keys in insert mode
+set esckeys
+" Allow backspace in insert mode
+set backspace=indent,eol,start
+
