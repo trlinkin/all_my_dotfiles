@@ -13,8 +13,5 @@ alias facter='~/REPOS/puppet/ext/envpuppet facter'
 # tmux -2 to make things work
 alias tmux="tmux -2"
 
-# PRY!
-alias irb='pry'
-
 # "Hub" for "GIT"
 alias git='hub'
