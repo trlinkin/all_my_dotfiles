@@ -1,3 +1,6 @@
+# Setup Boxen Paths
+[ -f /opt/boxen/env.sh ] && source /opt/boxen/env.sh
+
 # RBENV
 export PATH="$HOME/.rbenv/bin:/Applications/VMware\ Fusion.app/Contents/Library:$PATH"
 eval "$(rbenv init -)"
