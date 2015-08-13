@@ -13,8 +13,12 @@ set laststatus=2
 
 " Pathogen Engage
 execute pathogen#infect()
+
+" Some Simple defaults for environment
 set number
 syntax on
+filetype plugin indent on
+set autoindent
 
 " Default Color Scheme Molokai - It's Fuck`n Great!
 colorscheme molokai
