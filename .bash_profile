@@ -6,6 +6,7 @@ eval "$(rbenv init -)"
 export ENVPUPPET_BASEDIR=~/REPOS/
 alias puppet='~/REPOS/puppet/ext/envpuppet puppet'
 alias facter='~/REPOS/puppet/ext/envpuppet facter'
+alias hiera='~/REPOS/puppet/ext/envpuppet hiera'
 
 # tmux -2 to make things work
 alias tmux="tmux -2"
